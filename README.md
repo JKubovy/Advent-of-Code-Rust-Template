@@ -15,7 +15,7 @@ cargo install cargo-generate
 After that you can create new year project collection by calling
 Simply just call
 ```bash
-cargo generate JKubovy/Advent-of-Code-Rust-Template --name AoC2023
+cargo generate JKubovy/Advent-of-Code-Rust-Template --name aoc-2023
 ```
 
 ## 📌 To create new day project

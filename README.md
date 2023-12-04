@@ -1,4 +1,4 @@
-# 🎄 Advent of Code Template
+# 🎄 Advent of Code Template for Rust 🦀
 Rust 🦀 project collection template **Advent of Code**! This template create new project in which you will be able to adding subprojects per day challenge.
 
 ## 🎁 What is Advent of Code?

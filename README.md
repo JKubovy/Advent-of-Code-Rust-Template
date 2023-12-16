@@ -24,6 +24,13 @@ Simply just call
 cargo generate --path ./template --name dayXX
 ```
 
+## ⚙️ Run
+To run specific day you can use cargo `-p, --package` option
+```
+cargo test -p day01
+cargo run -p day01 --release
+```
+
 ## 🎆 Day project
 It has structure
  - `src/main.rs` self explanatory I guess
